@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Change_To_Red">Change to Red</string>
+    <string name="Change_to_Blue">Change to Blue</string>
+    <string name="Backgroud_color_toggle">Backgroud Color Toggle</string>
+
+</resources>
